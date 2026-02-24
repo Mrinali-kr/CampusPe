@@ -12,8 +12,7 @@ Special Instructions:
 Run each file individually using Python 3
 
 Challenges Faced:
-- Handling edge cases in ATM withdrawal
-- Implementing word frequency dictionary
+- Handling special features for bonus marks
 - Managing menu loops
 
 Notes:
